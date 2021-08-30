@@ -1,5 +1,5 @@
 
-
+# docker image for latest cloud sdk + python 3.8
 
 ## build image
 `docker build . `
